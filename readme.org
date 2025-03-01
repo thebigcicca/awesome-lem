@@ -28,6 +28,7 @@ The text editor lem is the lisp hacker editor, super complete, extensible and ea
 * extensions
 
 - [[https://github.com/40ants/lem-pareto][40ants/lem-pareto]]
+- [[https://github.com/fukamachi/lem-vi-sexp][fukamachi/lem-vi-sexp]]
 
 * themes
 
