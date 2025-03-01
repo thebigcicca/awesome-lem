@@ -17,7 +17,7 @@ The text editor lem is the lisp hacker editor, super complete, extensible and ea
 - [[https://github.com/fukamachi/.lem][fukamachi/.lem]]
 - [[https://github.com/garlic0x1/.lem][garlic0x1/.lem]]
 - [[https://github.com/Gavinok/.lem][Gavinok/.lem]]
-- [[https://github.com/bgcicca/.lem][bgcicca/.lem]]
+- [[https://github.com/bgcicca/oh-my-lem][bgcicca/oh-my-lem]]
 - [[https://codeberg.org/sasanidas/lem-config/][sasanidas/lem-config]]
 - [[https://github.com/sakurawald/.dotfiles][sakurawald/.dotfiles]] 
 - [[https://github.com/jcs090218/jcs-lem][jcs090218/jcs-lem]]
