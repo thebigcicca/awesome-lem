@@ -8,11 +8,21 @@ The text editor lem is the lisp hacker editor, super complete, extensible and ea
 * Table Of Contents
   - [[#awesome-lem][Awesome lem]]
   - [[#table-of-contents][Table Of Contents]]
-  - [[#dotfiles][dotfiles]]
-  - [[#extensions][extensions]]
-  - [[#themes][themes]]
+  - [[#Articles][Articles]]
+  - [[#Dotfiles][Dotfiles]]
+  - [[#Extensions][Extensions]]
+  - [[#Themes][Themes]]
 
-* dotfiles
+* Articles
+
+- [[https://prikaz98.github.io/blog/lem/lem.html][A Brief Article About the Lem Editor]]
+- [[https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/][Oh no, I started a Magit-like plugin for the Lem editor]]
+- [[https://garlic0x1.org/posts/lem/][garlic0x1 Lem]]
+- [[https://lisp-journey.gitlab.io/blog/lem-can-be-started-as-a-full-featured-repl/][Lem can now be started as a full featured Lisp REPL]]
+- [[https://irreal.org/blog/?p=11845][Lem: An Alternative To Emacs?]]
+- [[https://www.bgcicca.com.br/posts/2025-03-01.html][Lem, the Editor of the Future?]]
+
+* Dotfiles
 
 - [[https://github.com/fukamachi/.lem][fukamachi/.lem]]
 - [[https://github.com/garlic0x1/.lem][garlic0x1/.lem]]
@@ -25,12 +35,12 @@ The text editor lem is the lisp hacker editor, super complete, extensible and ea
 - [[https://github.com/solanav/lem-conf][solanav/lem-conf]]
 - [[https://github.com/40ants/lem-docker][40ants/lem-docker]]
 
-* extensions
+* Extensions
 
 - [[https://github.com/40ants/lem-pareto][40ants/lem-pareto]]
 - [[https://github.com/fukamachi/lem-vi-sexp][fukamachi/lem-vi-sexp]]
 
-* themes
+* Themes
 
 - [[https://github.com/40ants/lem-theme][40ants/lem-theme]]
 - [[https://github.com/40ants/lem-solarized][40ants/lem-solarized]]
