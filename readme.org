@@ -22,6 +22,7 @@ The text editor lem is the lisp hacker editor, super complete, extensible and ea
 - [[https://github.com/sakurawald/.dotfiles][sakurawald/.dotfiles]] 
 - [[https://github.com/jcs090218/jcs-lem][jcs090218/jcs-lem]]
 - [[https://github.com/anlsh/.lem][anlsh/.lem]]
+- [[https://github.com/solanav/lem-conf][solanav/lem-conf]]
 
 * extensions
 
