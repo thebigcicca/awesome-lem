@@ -1,0 +1,35 @@
+#+OPTIONS: toc:t
+* Awesome lem
+
+[[https://lem-project.github.io/icon-blue.svg]]
+
+The text editor lem is the lisp hacker editor, super complete, extensible and easy to understand, together with emacs they are very powerful tools for those who work with lisp, and many others languages. This is an awesome curated list of the editor's most impressive features!
+
+* Table Of Contents
+  - [[#awesome-lem][Awesome lem]]
+  - [[#table-of-contents][Table Of Contents]]
+  - [[#dotfiles][dotfiles]]
+  - [[#extensions][extensions]]
+  - [[#themes][themes]]
+
+* dotfiles
+
+- [[https://github.com/fukamachi/.lem][fukamachi/.lem]]
+- [[https://github.com/garlic0x1/.lem][garlic0x1/.lem]]
+- [[https://github.com/Gavinok/.lem][Gavinok/.lem]]
+- [[https://github.com/bgcicca/.lem][bgcicca/.lem]]
+- [[https://codeberg.org/sasanidas/lem-config/][sasanidas/lem-config]]
+- [[https://github.com/sakurawald/.dotfiles][sakurawald/.dotfiles]] 
+- [[https://github.com/jcs090218/jcs-lem][jcs090218/jcs-lem]]
+- [[https://github.com/anlsh/.lem][anlsh/.lem]]
+
+* extensions
+
+- [[https://github.com/40ants/lem-pareto][40ants/lem-pareto]]
+- [[https://github.com/lem-project/lem/blob/main/extensions/legit/README.md][lem-project/legit]]
+
+* themes
+
+- [[https://github.com/40ants/lem-theme][40ants/lem-theme]]
+- [[https://github.com/40ants/lem-solarized][40ants/lem-solarized]]
+- [[https://github.com/lem-project/lem-base16-themes][lem-project/lem-base16-themes]]
