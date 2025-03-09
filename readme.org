@@ -6,9 +6,8 @@
 The text editor lem is the lisp hacker editor, super complete, extensible and easy to understand, together with emacs they are very powerful tools for those who work with lisp, and many others languages. This is an awesome curated list of the editor's most impressive features!
 
 * Table Of Contents
-  - [[#awesome-lem][Awesome lem]]
-  - [[#table-of-contents][Table Of Contents]]
   - [[#Articles][Articles]]
+  - [[#Built-in-features][Built-in features]]
   - [[#Dotfiles][Dotfiles]]
   - [[#Extensions][Extensions]]
   - [[#Themes][Themes]]
@@ -22,6 +21,13 @@ The text editor lem is the lisp hacker editor, super complete, extensible and ea
 - [[https://irreal.org/blog/?p=11845][Lem: An Alternative To Emacs?]]
 - [[https://www.bgcicca.com.br/posts/2025-03-01.html][Lem, the Editor of the Future?]]
 
+* Built-in features
+
+- [[https://github.com/lem-project/lem/blob/main/extensions/legit/README.md][legit]]
+- [[https://lem-project.github.io/usage/usage/#multiple-cursors][multiple cursors]]
+- [[https://lem-project.github.io/usage/copilot/][copilot mode]]
+- [[https://lem-project.github.io/usage/configuration/#vi-mode][vim mode]]
+  
 * Dotfiles
 
 - [[https://github.com/fukamachi/.lem][fukamachi/.lem]]
