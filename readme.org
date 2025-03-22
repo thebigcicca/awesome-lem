@@ -7,6 +7,7 @@ The text editor lem is the lisp hacker editor, super complete, extensible and ea
 
 * Table Of Contents
   - [[#Articles][Articles]]
+  - [[#Videos][Videos]]
   - [[#Built-in-features][Built-in features]]
   - [[#Dotfiles][Dotfiles]]
   - [[#Extensions][Extensions]]
@@ -19,7 +20,15 @@ The text editor lem is the lisp hacker editor, super complete, extensible and ea
 - [[https://garlic0x1.org/posts/lem/][garlic0x1 Lem]]
 - [[https://lisp-journey.gitlab.io/blog/lem-can-be-started-as-a-full-featured-repl/][Lem can now be started as a full featured Lisp REPL]]
 - [[https://irreal.org/blog/?p=11845][Lem: An Alternative To Emacs?]]
-- [[https://www.bgcicca.com.br/posts/2025-03-01.html][Lem, the Editor of the Future?]]
+
+* Videos 
+
+- [[https://www.youtube.com/watch?v=5HGqY4RDAMk][jfaz/Lem inspector in game engine]]
+- [[https://www.youtube.com/watch?v=Ph8M8ThBgPc][Gavin-Freeborn/LEM - What If Emacs Was Multithreaded]]
+- [[https://www.youtube.com/watch?v=FKqpJhO_OHc][cxxr/a presentation of Lem 2.0, demo of the Trial game engine running in Lem at the end.]]
+- [[https://www.youtube.com/watch?v=LWL0he_T9rU][40ants/Defining color theme for Lem editor]]
+- [[https://www.youtube.com/watch?v=IMN7feOQOak][cxxr/Lem on the cloud]]
+- [[https://www.youtube.com/watch?v=JhzPmcUZN7A][fermin/Lem Tutorial - Part 1 - Installation]]
 
 * Built-in features
 
